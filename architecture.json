@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_naturalist_class_struggle",
+  "title": "The Mudlark's Ledger",
+  "tagline": "When the tide steals your livelihood, you must learn to steal back the shore.",
+  "target_words": 70000,
+  "actual_words": 71387,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Enclosure of the Commons (Sea & Self)",
+    "Gendered Labour as a Class Weapon",
+    "The Naturalist's Cruel Economy",
+    "Collective Survival vs. Individual Charity"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Thief Tide",
+      "words": 2970
+    },
+    {
+      "ch": 2,
+      "title": "The Price of a Penny",
+      "words": 2970
+    },
+    {
+      "ch": 3,
+      "title": "The Stubborn Hope",
+      "words": 2970
+    },
+    {
+      "ch": 4,
+      "title": "The Company Ledger",
+      "words": 2970
+    },
+    {
+      "ch": 5,
+      "title": "The Debtor's Mark",
+      "words": 2970
+    },
+    {
+      "ch": 6,
+      "title": "The Smack's Manifest",
+      "words": 2970
+    },
+    {
+      "ch": 7,
+      "title": "The Wharfside Sermon",
+      "words": 2970
+    },
+    {
+      "ch": 8,
+      "title": "The Broken Culch",
+      "words": 2970
+    },
+    {
+      "ch": 9,
+      "title": "The Factor's Table",
+      "words": 2970
+    },
+    {
+      "ch": 10,
+      "title": "The Women's Tide",
+      "words": 2970
+    },
+    {
+      "ch": 11,
+      "title": "The Midnight Dredge",
+      "words": 2970
+    },
+    {
+      "ch": 12,
+      "title": "The Storm Account",
+      "words": 2970
+    },
+    {
+      "ch": 13,
+      "title": "The Apprentice's Bargain",
+      "words": 2970
+    },
+    {
+      "ch": 14,
+      "title": "The Net-Mender's Fire",
+      "words": 2970
+    },
+    {
+      "ch": 15,
+      "title": "The London Price",
+      "words": 2970
+    },
+    {
+      "ch": 16,
+      "title": "The Strike of the Mud",
+      "words": 2970
+    },
+    {
+      "ch": 17,
+      "title": "The Harbour Blockade",
+      "words": 2970
+    },
+    {
+      "ch": 18,
+      "title": "The Magistrate's Tide",
+      "words": 2970
+    },
+    {
+      "ch": 19,
+      "title": "The Cell's Arithmetic",
+      "words": 2970
+    },
+    {
+      "ch": 20,
+      "title": "The Boy's Choice",
+      "words": 2970
+    },
+    {
+      "ch": 21,
+      "title": "The Burning Shed",
+      "words": 2970
+    },
+    {
+      "ch": 22,
+      "title": "The Receding Line",
+      "words": 2970
+    },
+    {
+      "ch": 23,
+      "title": "The New Bed",
+      "words": 2970
+    },
+    {
+      "ch": 24,
+      "title": "The Next Tide",
+      "words": 2970
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene from the perspective of Edwin Bayliss as he calculates the quarterly yield, his cold logic clashing with a fleeting memory of his own grandfather working the flats.",
+      "Draft a 'folk song' or chant the dredgers might sing while working, encoding a secret message or a veiled threat against the Company.",
+      "Create an entry from Martha's mother's journal, stitching together observations of her daughter's transformation with the slow decay of her own body and hopes.",
+      "Write a pamphlet distributed by a visiting Chartist or early union organizer to the dredgers, attempting to frame their struggle in a broader political context."
+    ],
+    "technical": [
+      "Build a 'Tide & Ledger' interactive model that simulates the economics of the oyster beds: variables include tide height, Company license fees, price per bushel, and family debt, forcing the player to make survival choices.",
+      "Create a data visualization mapping the 'enclosure of the commons,' showing how specific, named fishing beds (like Martha's) are gradually absorbed into Company control over the course of the novel's timeline."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Émile Zola",
+      "Virginia Woolf",
+      "John Steinbeck",
+      "Ann Petry"
+    ]
+  },
+  "cover_prompt": "A determined young woman in worn, salt-stained work clothes stands defiantly in the shallows, clutching a ledger book to her chest as she stares down a line of advancing men in fine coats, the tension between collective sustenance and private ownership made physical, set against the vast, mist-shrouded estuary of the Thames at dawn with mudflats stretching to a distant, encroaching city. In the atmospheric style of a feminist wave naturalist painting, evoking the detailed social realism of Kathe Kollwitz merged with the luminous, turbulent seascapes of Ivan Aivazovsky, capturing both gritty human struggle and the sublime power of the elemental shore. Book cover framing, centered composition with a low, dramatic angle looking up at the woman, making her a monumental figure against the sweeping sky, the composition divided between the rich, dark mud and the vast, hopeful light. Chiaroscuro lighting with a cool, desaturated palette of slate grey, ochre, and sea-foam green, pierced by a single shaft of wan, golden dawn light illuminating the ledger and her resolute expression. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
