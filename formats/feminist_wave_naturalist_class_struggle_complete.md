@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The tide was a thief. It came in the hour before dawn, a silent, silvered accomplice to the cold, and it stole the ground right out from under her.
+Mud splattered up Lena’s stockings with every step, the cold seeping through worn leather before she’d even reached the factory gate. Her mother’s boots, two sizes too large, slapped a wet rhythm against the cobblestones—a debt paid in blisters before the whistle blew.
+
 
 Martha Cullwick was already in it, the saltwater biting at her knees through the worn wool of her trousers, the hem of her skirt tucked up and knotted at her waist. Her hands, raw as peeled bark, worked the wooden rake through the murk, feeling for the hard, ridged promise of oyster clusters. The water wasn’t deep here on the Essex flats, not yet, but the tide had its own ideas about property. The bed she’d marked at low water, the one with the fat, barnacled mothers clinging to the submerged timber, was dissolving. The sea was taking it back, inch by creeping inch. Her property. Her money. Her morning.
 
