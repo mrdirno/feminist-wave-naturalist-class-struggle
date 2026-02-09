@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The tide was a thief. It came in the hour before dawn, a silent, silvered accomplice to the cold, and it stole the ground right out from under her.
@@ -121,6 +123,8 @@ She held it out to her father. “Eat. Keep your strength.”
 He took it, tipped it into his mouth. He didn’t taste it. None of them did. They were tasting the future, and it was salt, and iron, and mud.
 
 ---
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -295,6 +299,8 @@ There was no choice, really. The tide was coming in. You could let it take you, 
 And in the ruined chapel, under the cold eye of the moon, the first fragile alliance was forged. Not with oaths or signatures, but with a simple, desperate affirmation. They were the mud, and they would not be washed away so easily.
 
 ---
+
+# Chapter 3
 
 ## CHAPTER 3
 
